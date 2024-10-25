@@ -11,10 +11,11 @@ The objective is to enhance the accuracy of stock return predictions and optimiz
 The Random Forest model achieved the highest cumulative returns, outperforming traditional time series models and the market return benchmark.
 
 ## Project Structure
-- `Data_Preprocessing.py`: Prepares data from the SSE50 index
-- `code.ipynb`: Implements forecasting models and portfolio optimization
-- `results/`: Visualizations comparing model and market returns
-- `FMA4200_Project_Report.pdf`: Detailed final report on methodology, results, and analysis
+- `Data_Preprocessing.py`: Prepares data from the SSE50 index, can be found in the Data folder
+- `Data`: Contains all the stock data we use in this project 
+- `Full Code.ipynb`: Implements forecasting models and portfolio optimization
+- `Results`: Visualizations comparing model and market returns
+- `Project Report.pdf`: Detailed final report on methodology, results, and analysis
 
 ## Getting Started
 1. Clone the repository
