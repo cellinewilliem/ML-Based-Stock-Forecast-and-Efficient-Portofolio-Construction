@@ -23,12 +23,10 @@ The Random Forest model achieved the highest cumulative returns, outperforming t
 
 ```plaintext
 ML-Based-Stock-Forecast-Portfolio/
-├── data/                   # Contains all the stock data we use in this project 
-├── notebooks/              # Jupyter notebooks for forecasting models and portfolio optimization
-│   ├── Full Code.ipynb
-├── src/                    # Source code for data processing
-│   ├── data_processing.py
-├── results/                # Visualizations comparing model and market returns
+├── Data/                   # Contains all the stock data we use in this project
+│   ├── data_processing.py  # Source code for data processing
+├── Results/                # Visualizations comparing model and market returns
+├── Full Code.ipynb         # Jupyter notebooks for forecasting models and portfolio optimization
 ├── Project report.pdf      # Detailed final report on methodology, results, and analysis
 └── README.md               # Project documentation (this file)
 ```
