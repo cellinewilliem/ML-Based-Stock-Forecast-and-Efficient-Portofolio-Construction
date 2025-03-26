@@ -1,4 +1,4 @@
-# ML-Based-Stock-Forecast-Portfolio-
+# ML-Based-Stock-Forecast-and-Efficient-Portofolio-Construction
 An evaluation of the effectiveness of various forecasting models for estimating mean returns within the mean-variance optimization framework.
 
 This repository contains the code, results, and a detailed report on forecasting stock prices and constructing optimized portfolios using various machine learning and time series models. The study focuses on stocks in China’s A-share SSE50 index and compares models based on cumulative returns over the testing period.
